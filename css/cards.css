@@ -1,0 +1,45 @@
+.container-cards{
+    display: block;
+    
+    text-align: center;
+}
+
+
+.layer{
+    padding: 30px;
+    border-radius: 0px;    
+}
+
+.layer .titulo{
+    color: var(--color-3);
+    font-weight: bold;    
+    font-family: var(--titulos);
+    font-size: var(--txt-md);
+
+}
+
+.layer .botao{
+    margin-top: 10px;
+    border-radius: 10px !important;
+    width: fit-content;
+
+}
+
+
+.card1{
+    
+    background-color: var(--card-color-1);
+
+}
+
+.card2{
+    background-color: var(--card-color-2);
+}
+
+.card3{
+    background-color: var(--card-color-3);
+}
+
+.card4{
+    background-color: var(--card-color-4);
+}

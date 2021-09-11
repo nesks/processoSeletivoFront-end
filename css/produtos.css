@@ -1,0 +1,28 @@
+
+
+.container-produtos .row{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+
+}
+
+.nossosProdutos{
+    padding: 70px;
+    font-family: var(--titulos);
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+
+.controle{
+    color:black;
+    font-weight: bolder;
+}
+
+.cartao{
+    background-color: var(--color-bg);
+    align-items: center;
+
+}

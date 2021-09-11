@@ -1,0 +1,33 @@
+:root{
+    /*color*/
+    --color-2: #fd0001;
+    --color-1: #c20102;
+    --color-3: #ffdd8b;
+    --color-bg: #ebebeb;
+    --card-color-1:#231f20;
+    --card-color-2:#1f1b1c;
+    --card-color-3:#161415;
+    --card-color-4:#0f0d0e;
+    --color-button-success: #68bb35;
+
+    /*fonts*/
+    --menu: 'Georgia Regular';
+    --titulos: 'Roboto Thin';
+    --botoes: 'Sans Narrow';
+    --prodValue: 'Open Sans';
+
+        /*fonts size*/
+    --text:14px;
+    --txt-lg:40px;
+    --txt-md:24px;
+    --txt-sm:18px;
+
+}
+
+body{
+    font-size: var(--text);
+    font-family: var(--menu);
+    margin:0;
+    padding:0;
+    background-color: var(--color-bg);
+}
